@@ -1,0 +1,65 @@
+MILESTONE - 5 PART - 1
+Name		: Jivin Chugh
+Student id	: 156056210
+email		: jchugh@myseneca.ca
+date		: 15 April,2023
+-------------------------------------------------------------------------------------------------
+For milestone part, everything was done by myself,
+I just took some help from amitoj in one of the conditions 
+and even ram helped me in one of the conditions
+-------------------------------------------------------------------------------------------------
+This part of milestone was not so easy, not so hard for me, the toughest part for me was doing the parts that were to be done without a description of it given, took overall 4-5 hours for me to get the programming done but I had an issue in the sort, first I did not create any sort and just did the sorting without creating any function, later, I was getting a problem while sorting the list. For my  program, sorting was getting done on basis of sku, I had no idea why so I started asking out for help, so did I even mail you at midnight, I asked amitoj, he suggested me to make a function for it but it still did not work. Later while hovering the mouse for somewhere around 30+ minutes; I came over the condition if (*Iptr[i] > *Iptr[j]); there I found the > to be directing to something, So I went to the operator overload > and there I found that I had a mistake in my previous milestone. Over there I did 
+bool Item::operator>(const Item& right) const
+	{
+		return strcmp(this->m_sku, right.m_sku) > 0;
+	}
+Over here I did a very silly mistake, even after the description being given correctly; So I corrected this return condition out to be return strcmp(this->m_itemname, right.m_itemname) and I later got the whole program correct, overall it was a pretty challenging code when it came to debugging but on a overall it was okayish.
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+MILESTONE - 5 PART - 2
+Name		: Jivin Chugh
+Student id	: 156056210
+email		: jchugh@myseneca.ca
+date		: 15 April,2023
+-------------------------------------------------------------------------------------------------
+For this part of milestone, all of the work was done by myself
+-------------------------------------------------------------------------------------------------
+This was one of the easy milestone I have done; overall I had a really easy part while getting this done as half of the reference of creating a new pointer item and all could have been done easily by the help of previous part of the milestone. It was overall an okayish part, only problem I faced was it was not exiting the loop so I had to create a loop variable for the while loop of taking inputs of yes or no; got it done really easily, went step by step and it ran for me easily.
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+MILESTONE - 5 PART - 3
+Name		: Jivin Chugh
+Student id	: 156056210
+email		: jchugh@myseneca.ca
+date		: 15 April,2023
+-------------------------------------------------------------------------------------------------
+For this part of milestone, all of the work was done by myself
+-------------------------------------------------------------------------------------------------
+This was fairly easy, even easier than ms5 part 2 I would say, the remove item function was really easy; just had a bit of doubt in printing the item, gave 10-15mins and got it done; rest, I forgot to deduct the nptr by 1 after reducing the row or removing an item. selectItem was okayish to make, had a few issues while thinking about passing the false value for list items, had to change the definition but go it done. Also while submission a mistake that I did was I ignored the next character upto ',' whereas upto '\n' should have been ignored. After that I had some 3-4 problems of printing the expected outcome such as it entered a new line and such but it was overall a really easy part. Also I learned one thing, I heard from you once saying "Get done with the workshop the same day you start it"; it helped me maintain a flow, as I remember every single thing done in previous functions (previous parts of this milestone) which is helping me a lot getting the work done faster than I expect.
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+MILESTONE - 5 PART - 4
+Name		: Jivin Chugh
+Student id	: 156056210
+email		: jchugh@myseneca.ca
+date		: 15 April,2023
+-------------------------------------------------------------------------------------------------
+For this part of milestone, all of the work was done by myself
+-------------------------------------------------------------------------------------------------
+After this milestone, I would like to update my milestone 5 part 3, I remember using sorting function in milestone 1, it was in Utils.cpp; when I had a look over it I was like okay this can be used, but I was having a bit of prpoblem when it came to milestone 4 for the same, as at one place it was said that "Enter the row number" while the other place it was "Enter the quantity to add"; it was being a problem to me, so I updated the definition, added one more bool prototype that acted as a switch case and helped me choose which statement I wanted to print; had really fun doing this as it felt an achievement getting it done with fewer lines of code; Overall was really easy part of milestone, just followed the points and got it done like a piece of cake, the ida of doing everything on the very same day is really working for me I would say. Took not more than 20-30mins to get it done
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+MILESTONE - 5 PART - 5
+Name		: Jivin Chugh
+Student id	: 156056210
+email		: jchugh@myseneca.ca
+date		: 16 April,2023
+-------------------------------------------------------------------------------------------------
+For this part of milestone, all of the work was done by myself, and amitoj helped me a bit
+-------------------------------------------------------------------------------------------------
+This was a troublesome part overall, it was really annoying as it had corrections in Perishable and NonPerishable parts as well, amitoj guided me to do some corrections by adding the if error conditions for the write functions. i overall tried so many times to get things done but was not so easy. The main problem in POS function was entering into the do while loop, amitoj helped me and gave me the condition for it and asked me to make a prefix member operator overload which was mandatory. Rest everything was done by myself for the milestone. Debugging was a bit tough again I would say, leaving lines at correct places, hoveringthrough different modules made it tougher, the nested conditions in the do-while loop was also a bit tough.
+Overall this course was filled up with ups and downs, I hope I would pass the course, the first few days was a bit tough for me as I missed ample of tests and workshops; it was a rollercoaster ride. The strategies of learning, taking the test first and then explaining the topic was helpful as well at times, because learning what was necessary before the session helped me have a better attention and better understanding in class. Thanks a lot for sharing your valueable knowledge with us prof!!! 

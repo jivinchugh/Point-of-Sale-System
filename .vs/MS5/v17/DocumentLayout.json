@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\PosApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|solutionrelative:PosApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\PosApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|solutionrelative:PosApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\NonPerishable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|solutionrelative:NonPerishable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|solutionrelative:Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Bill.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|solutionrelative:Bill.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\POS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|solutionrelative:POS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Perishable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|solutionrelative:Perishable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|solutionrelative:Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Bill.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|solutionrelative:Bill.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|solutionrelative:Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|solutionrelative:Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E091B31-9CAA-4D55-BF8E-10AE7303C8ED}|MS5.vcxproj|solutionrelative:Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-04-15T02:12:54.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PosApp.cpp",
+              "DocumentMoniker": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\PosApp.cpp",
+              "RelativeDocumentMoniker": "PosApp.cpp",
+              "ToolTip": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\PosApp.cpp",
+              "RelativeToolTip": "PosApp.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-04-15T02:38:50.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Utils.cpp",
+              "DocumentMoniker": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Utils.cpp",
+              "RelativeDocumentMoniker": "Utils.cpp",
+              "ToolTip": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Utils.cpp",
+              "RelativeToolTip": "Utils.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-04-15T02:40:24.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Date.cpp",
+              "DocumentMoniker": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Date.cpp",
+              "RelativeDocumentMoniker": "Date.cpp",
+              "ToolTip": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Date.cpp",
+              "RelativeToolTip": "Date.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-04-15T03:42:22.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bill.cpp",
+              "DocumentMoniker": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Bill.cpp",
+              "RelativeDocumentMoniker": "Bill.cpp",
+              "ToolTip": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Bill.cpp",
+              "RelativeToolTip": "Bill.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-04-15T02:12:54.057Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PosApp.h",
+              "DocumentMoniker": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\PosApp.h",
+              "RelativeDocumentMoniker": "PosApp.h",
+              "ToolTip": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\PosApp.h",
+              "RelativeToolTip": "PosApp.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-04-15T02:38:42.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Perishable.cpp",
+              "DocumentMoniker": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Perishable.cpp",
+              "RelativeDocumentMoniker": "Perishable.cpp",
+              "ToolTip": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Perishable.cpp",
+              "RelativeToolTip": "Perishable.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-04-17T01:23:25.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NonPerishable.cpp",
+              "DocumentMoniker": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\NonPerishable.cpp",
+              "RelativeDocumentMoniker": "NonPerishable.cpp",
+              "ToolTip": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\NonPerishable.cpp",
+              "RelativeToolTip": "NonPerishable.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-04-17T01:11:53.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cpp",
+              "DocumentMoniker": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Item.cpp",
+              "RelativeDocumentMoniker": "Item.cpp",
+              "ToolTip": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Item.cpp",
+              "RelativeToolTip": "Item.cpp",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAEwPAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-04-15T04:26:14.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Item.h",
+              "RelativeDocumentMoniker": "Item.h",
+              "ToolTip": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Item.h",
+              "RelativeToolTip": "Item.h",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-04-15T04:25:34.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Utils.h",
+              "DocumentMoniker": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Utils.h",
+              "RelativeDocumentMoniker": "Utils.h",
+              "ToolTip": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Utils.h",
+              "RelativeToolTip": "Utils.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-04-15T02:40:09.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bill.h",
+              "DocumentMoniker": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Bill.h",
+              "RelativeDocumentMoniker": "Bill.h",
+              "ToolTip": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\Bill.h",
+              "RelativeToolTip": "Bill.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-04-15T02:12:52.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "POS.h",
+              "DocumentMoniker": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\POS.h",
+              "RelativeDocumentMoniker": "POS.h",
+              "ToolTip": "C:\\Users\\jivin\\OneDrive\\Desktop\\Seneca College\\SEM 4\\BTP 200\\BTP-Project-main\\MS5\\POS.h",
+              "RelativeToolTip": "POS.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwCgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-04-15T02:20:53.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
